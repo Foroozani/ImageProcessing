@@ -1,5 +1,4 @@
 """
-Created on Wed Nov 25 12:14:30 2020
 
 @author: najmeh
 """
@@ -39,3 +38,5 @@ for f in os.listdir('image'):   # give directory to get the files
         
         i.thumbnail(size_200)    # it also keep the aspect ratio 
         i.save('200/{}_200.p{}'.format(fn, fext))    # rename but keep regular extension 
+        
+        
