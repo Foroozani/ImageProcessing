@@ -1,5 +1,8 @@
 # ImageProcessing
 
+[![keras](https://img.shields.io/badge/Keras%20-%23D00000?logo=keras)](https://keras.io/)
+[![TensorFlow 2.2](https://img.shields.io/badge/TensorFlow-2.2-FF6F00?logo=tensorflow)](https://github.com/tensorflow/tensorflow/releases/tag/v2.2.0) 
+
 Recognition of handwritten characters is one of the most interesting topics in pattern recognition domain. For some scripts such as English, there are standard
 datasets available and reviewed, such as  MNIST, CEDAR, CENPARMI.  
 
